@@ -1,0 +1,6 @@
+@font-face {
+font-family: 'Italic heading';
+font-style: normal;
+font-weight: normal;
+src: local('Italic heading'), url('fonts/PlayfairDisplay-Italic.woff') format('woff');
+}

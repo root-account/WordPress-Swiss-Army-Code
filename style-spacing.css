@@ -1,0 +1,257 @@
+/****************
+NOTES
+-----------------
+Some predefined padding and margin classess for consistency in terms of sizing
+*****************/
+
+/*********************
+PADDINGS
+**********************/
+.padding-xs-top-bottom{
+	padding-top:1em !important;
+	padding-bottom:1em !important;
+}
+
+.padding-sm-top-bottom{
+	padding-top:2em !important;
+	padding-bottom:2em !important;
+}
+
+.padding-md-top-bottom{
+	padding-top:4em !important;
+	padding-bottom:4em !important;
+}
+
+.padding-lg-top-bottom{
+	padding-top:6em !important;
+	padding-bottom:6em !important;
+}
+
+.padding-xlg-top-bottom{
+	padding-top:9em !important;
+	padding-bottom:9em !important;
+}
+
+/* Left right */
+.padding-sm-left-right{
+	padding-left:2em !important;
+	padding-right:2em !important;
+}
+
+.padding-md-left-right{
+	padding-left:4em !important;
+	padding-right:4em !important;
+}
+
+.padding-lg-left-right{
+	padding-left:6em !important;
+	padding-right:6em !important;
+}
+
+.padding2-left{
+	padding-left:2em !important;
+}
+.padding2-right{
+	padding-right:2em !important;
+}
+
+/* All allound */
+.padding-sm-all{
+	padding:2em !important;
+}
+
+.padding-md-all{
+	padding:4em !important;
+}
+
+.padding-lg-all{
+	padding:6em !important;
+}
+
+.padded-text {
+    padding: 1em 21em;
+}
+
+.no-paddings{
+	padding: 0px !important;
+	padding-left: 0px !important;
+	padding-right: 0px !important;
+	padding-top: 0px !important;
+	padding-bottom: 0px !important;
+}
+
+/*********************
+Margins
+**********************/
+
+.no-margins{
+	margin: 0px !important;
+	margin-left: 0px !important;
+	margin-right: 0px !important;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+}
+
+.margin-bottom-sm{
+	margin-bottom: 1em !important;
+}
+
+.margin-bottom-md{
+	margin-bottom: 2em !important;
+}
+
+.margin-bottom-lg{
+	margin-bottom: 3em !important;
+}
+
+.uppercase-text{
+	text-transform: uppercase !important;
+}
+
+/*********************
+COLORS
+**********************/
+.white-text span,
+.white-text p,
+.white-text h1,
+.white-text h2,
+.white-text h3,
+.white-text h4,
+.white-text h5,
+.white-text h6{
+	color: #ffffff !important;
+}
+
+.dark-blue-text span,
+.dark-blue-text p,
+.dark-blue-text,
+.dark-blue-text h1,
+.dark-blue-text h2,
+.dark-blue-text h3,
+.dark-blue-text h4,
+.dark-blue-text h5,
+.dark-blue-text h6{
+	color: #004587 !important;
+}
+
+.light-blue-text span,
+.light-blue-text p,
+.light-blue-text,
+.light-blue-text h1,
+.light-blue-text h2,
+.light-blue-text h3,
+.light-blue-text h4,
+.light-blue-text h5,
+.light-blue-text h6,{
+	color: #079bca !important;
+}
+
+.orange-text span,
+.orange-text p,
+.orange-text,
+.orange-text h1,
+.orange-text h2,
+.orange-text h3,
+.orange-text h4,
+.orange-text h5,
+.orange-text h6,{
+	color: #e84e0f !important;
+}
+
+
+.light-orange-text span,
+.light-orange-text p,
+.light-orange-text,
+.light-orange-text h1,
+.light-orange-text h2,
+.light-orange-text h3,
+.light-orange-text h4,
+.light-orange-text h5,
+.light-orange-text h6{
+	color: #f5b359 !important;
+}
+.opacity-orange-text span,
+.opacity-orange-text p,
+.opacity-orange-text,
+.opacity-orange-text h1,
+.opacity-orange-text h2,
+.opacity-orange-text h3,
+.opacity-orange-text h4,
+.opacity-orange-text h5,
+.opacity-orange-text h6,{
+	color: #feece0 !important;
+}
+
+.dark-grey-text span,
+.dark-grey-text p,
+.dark-grey-text,
+.dark-grey-text h1,
+.dark-grey-text h2,
+.dark-grey-text h3,
+.dark-grey-text h4,
+.dark-grey-text h5,
+.dark-grey-text h6{
+	color: #777777 !important;
+}
+
+.light-grey-text span,
+.light-grey-text p,
+.light-grey-text,
+.light-grey-text h1,
+.light-grey-text h2,
+.light-grey-text h3,
+.light-grey-text h4,
+.light-grey-text h5,
+.light-grey-text h6{
+	color: #f8f8f8 !important;
+}
+
+.black-text span,
+.black-text p,
+.black-text,
+.black-text h1,
+.black-text h2,
+.black-text h3,
+.black-text h4,
+.black-text h5,
+.black-text h6{
+	color: #0e0e0e !important;
+}
+
+
+
+
+/*********************
+BACKGROUNDS
+**********************/
+.dark-blue-bg{
+	background-color: #004587 !important;
+}
+
+.light-blue-bg{
+	background-color: #079bca !important;
+}
+
+.orange-bg{
+	background-color: #e84e0f !important;
+}
+
+.light-orange-bg{
+	background-color: #f5b359 !important;
+}
+
+.opacity-orange-bg{
+	background-color: #feece0 !important;
+}
+
+.dark-grey-bg{
+	background-color: #777777 !important;
+}
+
+.light-grey-bg{
+	background-color: #f8f8f8 !important;
+}
+
+.black-bg{
+	background-color: #0e0e0e !important;
+}
